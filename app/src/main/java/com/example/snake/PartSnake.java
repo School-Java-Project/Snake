@@ -3,7 +3,7 @@ package com.example.snake;
 import android.graphics.Bitmap;
 import android.graphics.Rect;
 
-public class PartSnake {
+public class    PartSnake {
     private Bitmap bm;
     private int x, y;
     private Rect rBody, rTop, rBottom, rRight, rLeft;
