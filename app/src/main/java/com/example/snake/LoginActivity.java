@@ -9,7 +9,6 @@ import java.util.ArrayList;
 
 public class LoginActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
-    private MyRecyclerAdapter mRecyclerAdapter;
     private ArrayList<FindData> mfriendItems;
 
 

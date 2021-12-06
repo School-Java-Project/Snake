@@ -13,17 +13,17 @@
         android:padding="20dp">
         <!--이름-->
         <TextView
-            android:id="@+id/name"
+            android:id="@+id/name1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="박지예"
+            android:text="jiye"
             android:textSize="16sp"
             android:textColor="#ffffff"/>
 
         <!--상태 메시지-->
         <TextView
-            android:id="@+id/score"
+            android:id="@+id/score1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
@@ -38,18 +38,18 @@
         android:gravity="center_vertical"
         android:padding="20dp">
         <!--이름-->
-        <TextView
-            android:id="@+id/name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:text="변찬우"
-            android:textSize="16sp"
-            android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="chanwoo"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
 
         <!--상태 메시지-->
         <TextView
-            android:id="@+id/score"
+            android:id="@+id/score2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
@@ -64,18 +64,18 @@
         android:gravity="center_vertical"
         android:padding="20dp">
         <!--이름-->
-        <TextView
-            android:id="@+id/name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:text="감자"
-            android:textSize="16sp"
-            android:textColor="#ffffff"/>
+    <TextView
+        android:id="@+id/name3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="potato"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
 
         <!--상태 메시지-->
         <TextView
-            android:id="@+id/score"
+            android:id="@+id/score3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="100dp"
@@ -91,17 +91,17 @@
         android:padding="20dp">
         <!--이름-->
         <TextView
-            android:id="@+id/name"
+            android:id="@+id/name4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="티모"
+            android:text="teemo"
             android:textSize="16sp"
             android:textColor="#ffffff"/>
 
         <!--상태 메시지-->
     <TextView
-        android:id="@+id/score"
+        android:id="@+id/score4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="100dp"
